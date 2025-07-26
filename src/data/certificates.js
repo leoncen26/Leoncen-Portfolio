@@ -1,7 +1,7 @@
-import dartCertificates from 'src/assets/certificates/Sertifikat-Dart.jpg'
-import flutterDartCertificates from 'src/assets/certificates/Sertifikat-Dart-and-Flutter.jpg'
-import chatifyCertificates from 'src/assets/certificates/Sertifikat-Chatify.jpg'
-import hackathonCertificates from 'src/assets/certificates/Sertifikat-HACKATHON.PNG'
+import dartCertificates from '../assets/certificates/Sertifikat-Dart.jpg'
+import flutterDartCertificates from '../assets/certificates/Sertifikat-Dart-and-Flutter.jpg'
+import chatifyCertificates from '../assets/certificates/Sertifikat-Chatify.jpg'
+import hackathonCertificates from '../assets/certificates/Sertifikat-HACKATHON.PNG'
 
 
 export const certificates = [
