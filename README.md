@@ -16,6 +16,7 @@ Website ini dibuat melalui tutorial pada Youtube channel PedroTech yang berjudul
 
 ## ✨ Fitur Tambahan (Fitur yang ditambah sendiri)
 - Menambahkan sertifikat serta menampilkan gambar sertifikat
+- Footer
 
 ---
 
